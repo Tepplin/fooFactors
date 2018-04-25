@@ -2,6 +2,7 @@ Package: foofactors
 Title: Fixing Those Very Pesky Factor Habits
 Version: 0.0.0.9000
 Authors@R: person("Eric", "Tesdahl", email = "tesdahl.eric@gmail.com", role = c("aut", "cre"))
+Author: Eric Tesdahl [ aut, cre]
 Description: This package really just helps me to learn how to build a package.
 Depends: R (>= 3.4.4)
 License: MIT
